@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Brand Colors for Dark Mode -->
+    <color name="primaryColor">#60A5FA</color>
+    <color name="primaryDarkColor">#3B82F6</color> 
+    <color name="secondaryColor">#A78BFA</color> 
+    
+    <color name="backgroundColor">#121212</color> 
+    
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#F9FAFB</color> 
+    <color name="textColorSecondary">#9CA3AF</color> 
+    <color name="textColorHint">#6B7280</color> 
+    <color name="watermarkColor">#4B5563</color> 
+    
+    <!-- Card & Surfaces -->
+    <color name="surfaceColor">#1E1E1E</color> 
+    <color name="iconBackground">#1F2937</color> 
+    <color name="iconTint">#60A5FA</color> 
+    
+    <!-- States -->
+    <color name="redAccent">#F87171</color>
+    <color name="redBackground">#450A0A</color>
+</resources>
